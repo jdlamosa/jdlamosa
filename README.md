@@ -9,7 +9,6 @@ My GitHub is currently ⚡--> **_Under Construction_** <--⚡, I'm constantly up
 ![Jéssica Domingues Lamosa](https://github-readme-stats.vercel.app/api?username=jdlamosa&theme=blueberry&show_icons=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdlamosa&langs_count=8)
 
 <div> 
   
@@ -20,6 +19,9 @@ My GitHub is currently ⚡--> **_Under Construction_** <--⚡, I'm constantly up
 
 <!--
 **jdlamosa/jdlamosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdlamosa&langs_count=8)
 
 Here are some ideas to get you started:
 
