@@ -1,9 +1,9 @@
 ### Welcome 👋 !
 
-I’m a computer engineer with a master's degree in applied computing. I'm currently a data science PhD student passionate about **Machine Learning**, **Artificial Intelligence**, **NLP** and **Complex Network**.
+I’m a computer engineer with a master's degree in applied computing. I'm currently a data science PhD student passionate about **Machine Learning**, **Artificial Intelligence**, **NLP** and **Complex Network**. As a Data Scientist, I work on combining my skills in machine learning, statistics, artificial intelligence, software engineering, programming and communication in order for solving problems
 
 
-My GitHub is currently ⚡--> **_Under Construction_** <--⚡, I'm constantly updating to show some selected projects I've finished.
+My GitHub is currently under construction, I'm constantly updating to show some selected projects I've finished.
 
 
 ![Jéssica Domingues Lamosa](https://github-readme-stats.vercel.app/api?username=jdlamosa&theme=blueberry&show_icons=true)
